@@ -1,0 +1,6 @@
+{
+	"require" : {
+		"moltin/tax" : "dev-master",
+		"moltin/cart" : "dev-master"
+	}
+}
