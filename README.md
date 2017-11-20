@@ -11,7 +11,7 @@ After it has installed all the dependencies, you can finally install the databas
 Import the `.sql` files in the system directory in your phpmyadmin or mysql command prompt. Then change the following in the `DB_CONFIG.php` file in the system folder.
 ```php
 define('DB_HOST', 'localhost');
-define('DB_USER', 'user_name'); // change this
+define('DB_USER', 'username'); // change this
 define('DB_PASS', 'password'); // change this
 define('DB_NAME', 'ecom_shop'); // change this if you have made a different database name
 ```
